@@ -80,7 +80,7 @@ Possivelmente as credenciais do usuario backup que nós enumeramos à alguns pas
 
 ![Smbclient](./images/walkthroughs/attacktive-directory/img.attacktive-9.png)
 
-O mesmo está encriptado com base 64, como estudo sobre o assunto algum tempo, conheço alguns padrões de hash como o Base64
+Como estudo sobre o assunto a algum tempo, conheço alguns padrões de hash como o Base64
 
 Então realizamos a conversão para texto claro com o comando:
 
