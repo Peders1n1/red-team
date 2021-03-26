@@ -17,7 +17,7 @@ Percebemos que se trata de um Windows Server com o mome do dominio ***spookysec.
 
 ![Scan nmap](./images/walkthroughs/attacktive-directory/img.attacktive-2.png)
 
-Agora começa a ficar mais intereessante, pois como se trata de um DC inicialmente podemos procurar por diversos vetores de ataque
+Agora começa a ficar mais intereessante, pois como se trata de um DC (Domain Contoller) inicialmente podemos procurar por diversos vetores de ataque
 
 Como notamos na fase de Recon, o servidor possui um serviço chamado Kerberos
 
