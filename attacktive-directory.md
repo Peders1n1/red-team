@@ -61,7 +61,7 @@ Vamos quebrar o hash dele, mas antes precisamos pesquisar qual é o tipo do hash
 Após realizado a consulta, realizo o ataque de brute force
 
 ```sh
-hashcat -m 18200 svc-admin.hash
+hashcat -m 18200 svc-admin.hash worldlist.txt
 ```
 ![Hashcat-2](./images/walkthroughs/attacktive-directory/img.attacktive-7.png)
 
